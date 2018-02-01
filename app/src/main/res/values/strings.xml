@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Super Bowl LII</string>
+    <string name="patriots">Patriots</string>
+    <string name="zero">0</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="point">Extra Point</string>
+    <string name="kick">Field Goal</string>
+    <string name="safety">Safety/Two Point</string>
+    <string name="Eagles">Eagles</string>
+    <string name="reset">Reset</string>
+    <string name="desc">football field</string>
+    <string name="desc2">New England Patriots Logo</string>
+    <string name="desc3">Philadelphia Eagles Logo</string>
+
+        <color name="light_blue">#E3F2FD</color>
+    <dimen name="font_size_score">56sp</dimen>
+    <dimen name="font_size_teams">24sp</dimen>
+
 </resources>
